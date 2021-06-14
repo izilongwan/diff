@@ -1,0 +1,5 @@
+export * from './element'
+export * from './createElement'
+export * from './diff'
+export * from './patchTypes'
+export * from './doPatches'
